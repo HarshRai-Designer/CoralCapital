@@ -1,0 +1,93 @@
+THEF issues done
+
+
+
+
+
+
+
+1. THEF-5 > Contact Page and Get in Touch Page >> Formatting, link and missing sign Issues.										> (1, 2a, 2c) done
+
+
+2. THEF-6 > Mobile menu should not be displayed for desktop													> done
+
+
+3. THEF-9 > Desktop >> Firefox Browser >> Font Formatting and Alignment Issues											> (1, 2) done
+
+
+4. THEF-15 > Services Page & Services Inner Page >> Spacing and Tab redirection Issue										> (2) done
+
+
+5. THEF-16 > Home Page & Projects Page >> Incorrect Linked and text alignment Issue										> (2) done
+
+
+6. THEF-17 > Project Inner Page >> Slider Arrow should not conflict with More Info Popup.										> done
+
+
+7. THEF-13 > Active Menu should be highlighted Properly in Header & Footer											> done
+
+
+8. THEF-19 > Mac(Safari) & Mac(chrome) 2560*1440 & 3840* 2160 resolutions >> Get In touch Page >> Reduce the width of Contact form					> done
+
+
+9. THEF-20 > Mac(Safari) & Mac(chrome) 2560*1440 & 3840* 2160 resolutions >> About Page >> Meet Out Team should be correctly aligned. 				> (1, 2) done
+
+
+10. THEF-21 > Mac(Safari) & Mac(chrome) 2560*1440 & 3840* 2160 resolutions >> Contact Us Page >> Text should be correctly aligned.					> done
+
+
+11. THEF-22 > Mac(Safari) & Mac(chrome) 2560*1440 & 3840* 2160 resolutions >> Office Category Page >> All Images and its on hover Border should be correctly aligned.	> done
+
+
+12. THEF-24 > iPad, iPhone and Android >> Header >> Navigation Issues												> (2, 4) done
+
+
+13. THEF-23 > iPad,iPhone & Android >> Footer >> Footer should be correctly aligned.										> done
+
+
+14. THEF-26 > iPad >> >> Contact Us Page >> Scroll should not be added at bottom(Reduce Banner width)								> done
+
+
+15. THEF-27 > iPad >> Get-In-Touch Page >> Padding & Alignment Issues.												> done
+
+
+16. THEF-29 > iPhone & Android >> About Us >> Alignment Issues												> done
+
+
+17. THEF-31 > Android & iPhone >> Services Page & Projects Page >> More Icon should be correctly aligned.								> done
+
+
+18. THEF-30 > Android & iPhone >> Projects Inner Page >> Alignment Issues											> (2) done
+
+
+19. THEF-32 > Android & iPhone >> Get In Touch Page >> Formatting Issues											> done
+
+
+20. THEF-33 > Android & iPhone >> Contact Page >> Text should be aligned in single line.										> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

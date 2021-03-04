@@ -1,0 +1,73 @@
+D-Lever QA Issues Done
+
+
+
+
+
+
+
+
+
+1. DLEV-3 > Dlever - Home														> done
+
+
+2. DLEV-5 > Dlever - Services													> done
+
+
+3. DLEV-7 > Dlever - Contact Us													> done
+
+
+4. DLEV-9 > Desktop -> Homepage -> Button & Social Icon Links Issues.									> (4) done
+
+
+5. DLEV-10 > IE Browser -> Contact Us Page -> Placeholder & Inputbox Issue.								> done
+
+
+6. DLEV-11 > EDGE Browser -> Contact Form -> Button Text Issue.									> done
+
+
+7. DLEV-12 > Desktop -> Our Team -> Spacing Issue.											> done
+
+
+8. DLEV-13 > Android Mobile & iPhone -> Home Page -> Alignment Issues.								> done
+
+
+9. DLEV-14 > Android Mobile & iPhone -> Our Services Page -> Spacing & Alignment Issues.							> done
+
+
+10. DLEV-15 > Android Mobile & iPhone -> About Us Page -> Alignment Issues.								> done
+
+
+11. DLEV-16 > Android Mobile & iPhone -> Our Team Page -> Alignment Issues.								> done
+
+
+12. DLEV-17 > Android Mobile & iPhone -> Contact Form -> Spacing & alignment Issues.							> done
+
+
+13. DLEV-18 > iPad -> Homepage -> Alignment Issue,											> done
+
+
+14. DLEV-19 > All Images on the homepage should be below 100KB.									> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

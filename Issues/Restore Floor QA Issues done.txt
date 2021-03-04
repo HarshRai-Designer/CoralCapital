@@ -1,0 +1,116 @@
+Restore Floor QA issues done
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. RFBWE-43 > Desktop>>Service page											> done
+
+
+2. RFBWE-45 > iPad >> Home page >> Position, text and spacing issues								> done
+
+
+3. RFBWE-46 > iPad >> About page >> Font size, position and spacing issues							> done
+
+
+4. RFBWE-47 > iPad >> Contact page >> Font size, error messages, spacing issues							> done
+
+
+5. RFBWE-48 > iPad >> Services page >> Gutter spacing, center position, images alignment and spacing issues				> done
+
+
+6. RFBWE-49 > MAC>>Chrome and Safari browser										> done
+
+
+7. RFBWE-50 > Android and iPhone>>Home Page										> done
+
+
+8. RFBWE-51 > Android and iPhone>>About Us Page										> done
+
+
+9. RFBWE-52 > Android & iPhone>>Services page										> done
+
+
+10. RFBWE-54 > Desktop>>Contact page											> done
+
+
+11. RFBWE-74 > Home Page >> Add proper padding above the section								> done
+
+
+12. RFBWE-75 > Large Mac Screen Issues >> Home Page alignment Issues.								> done
+
+
+13. RFBWE-73 > copyright year should be updated to latest year									> done
+
+
+14. RFBWE-76 > Desktop >> Navigation >> Services menu Formatting and alignment Issues						> done
+
+
+15. RFBWE-77 > Desktop >> Contact Page >> Heading Text formatting and alignment should be matched as other site pages.		> done
+
+
+16. RFBWE-78 > Desktop >> Home Page >> All services title should be in same font color						> done
+
+
+17. RFBWE-79 > On Large Mac Screen >> About & Services Page banner should be visible correctly					> done
+
+
+18. RFBWE-80 > Desktop >> About Page >> Alignment and text Formatting Issues.							> done
+
+
+19. RFBWE-81 > Desktop >> Contact Page >> Padding and Missing Map address Issues						> (1) done
+
+
+20. 
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

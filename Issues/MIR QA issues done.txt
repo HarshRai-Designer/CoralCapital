@@ -1,0 +1,95 @@
+MIR QA Issues done
+
+
+
+
+
+
+
+1. MIR-6 > Favicon Issue														> done
+
+
+2. MIR-8 > Desktop >> Home page >> Font color, style, missing content & scroll issues							> (1, 3, 4) done
+
+
+3. MIR-11 > Desktop >> Gallery page >> Alignment issue										> done
+
+
+4. MIR-13 > Desktop >> Contact us page >> Time Format & function issues									> (5) done
+
+
+5. MIR-14 > Desktop >> All pages >> Spacing, banner text font color issues								> done
+
+
+6. MIR-15 > Firefox Browser Issue													> done
+
+
+7. MIR-16 > Edge browser issue													> (2, 3) done
+
+
+8. MIR-17 > IE browser issues													> (2) done
+
+
+9. MIR-19 > Mac(2560x1600) Safari Browser issue											> done
+
+
+10. MIR-18 > Mac(3840x2160) Safari browser issue											> done
+
+
+11. MIR-20 > iPad Responsiveness >> Home page >> Image size, image stretched, invisibility issues						> (3, 4, 5, ) done
+
+
+12. MIR-21 > iPad Responsiveness >> Menu Bar >> Alignment issue									> done
+
+
+13. MIR-23 > iPad Responsiveness >> Menu page >> Design issues										> (1) done
+
+
+14. MIR-24 > iPad Responsiveness >> Reservations page >> Period missing issue								> done
+
+
+15. MIR-25 > iPad Responsiveness >> Gallery page >> Overlay issue									> done
+
+
+16. MIR-26 > iPad Responsiveness >> Contact us page >> Padding issue									> done
+
+
+17. MIR-27 > iPad Responsiveness >> Footer >> Phone number is breaking									> done
+
+
+18. MIR-28 > Mobile Responsiveness >> Home page >> Image size, stretched, invisibility issues						> (4, 5, 7) done
+
+
+19. MIR-29 > Mobile Responsiveness >> Menu bar >> Function issues									> (1) done
+
+
+20. MIR-31 > Mobile Responsiveness >> Reservations page >> Phone number is breaking & spacing issues					> done
+
+
+21. MIR-32 > Mobile Responsiveness >> Gallery page >> Design issue									> done
+
+
+22. MIR-33 > Mobile Responsiveness >> Contact us page >> Padding & text hiding issues							> done 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

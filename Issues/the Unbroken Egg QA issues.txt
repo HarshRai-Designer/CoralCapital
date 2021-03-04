@@ -1,0 +1,100 @@
+The Unbroken Egg QA Issues
+
+
+
+
+
+
+
+
+
+
+
+1. TBWE-4 > Desktop -> Homepage -> Color, Alignement & Spacing Issues.								> done
+
+
+2. TBWE-5 > Desktop -> About Us Page -> Alignment Issue.										> done
+
+
+3. TBWE-6 > Desktop -> Contact Us -> Alignment & Inputbox Issues.									> (1, 3, 4)done
+
+
+4. TBWE-7 > Desktop -> Member Login Page -> Form & Color Issues.									> (1, 2) done
+
+
+5. TBWE-8 > Desktop -> Climate Page -> Alignment, Spacing & Text color.								> done
+
+
+6. TBWE-9 > Desktop -> Economics Page -> Alignment, Spacing & Color Issue.								> done
+
+
+7. TBWE-10 > Desktop -> Political Page -> Hover Color, Inverted Comma & Alignment Issues.						> (3:font-size , 4) done
+
+
+8. TBWE-11 > Desktop -> Photographs Page -> Images Issue.										> (2, 3) done
+
+
+9. TBWE-12 > IE Browser -> Homepage -> Alignment Issues.										> done
+
+
+10. TBWE-13 > Desktop -> Footer -> Tag -> Year 2400 -> Spacing & Border Issue.								> done
+
+
+11. TBWE-15 > Large Screens ( 2560 x 1440 ) & ( 3840 x 2160 ) -> Alignment Issue.								> done
+
+
+12. TBWE-16 > Desktop -> Search in Header Section -> Alignment Issue. 									> done
+
+
+13. TBWE-17 > Android Mobile & iPhone -> Homepage -> Alignment, Spacing & other Issues.							> done
+
+
+14. TBWE-18 > Android Mobile & iPhone -> About Us Page -> Alignment Issues.								> done
+
+
+15. TBWE-28 > 404 Page -> Color Issue.												> done
+
+
+16. TBWE-29 > Favicon Should be visible Properly.											> done
+
+
+17. TBWE-19 > Android Mobile & iPhone -> Climate Page -> Alignment Issues.								> done
+
+
+18. TBWE-20 > Android Mobile & iPhone -> Economics Page -> Alignment Issue.								> done
+
+
+19. TBWE-21 > Android Mobile & iPhone -> Political Page -> Spacing & Alignment Issue.							> done
+
+
+20. TBWE-22 > Android Mobile & iPhone -> Product detail Page -> Alignment Issue.							> done
+
+
+21. TBWE-23 > iPad -> Homepage -> Alignement & Spacing Issue.									> done
+
+
+22. TBWE-24 > iPad -> About Us Page -> Alignment Issue.										> done
+
+
+23. TBWE-25 > iPad -> Contact Us Page -> Alignment Issues.										> done
+
+
+24. TBWE-26 > iPad -> Climate Page -> Alignment Issues.										> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

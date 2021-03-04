@@ -1,0 +1,98 @@
+DGR QA issues Done
+
+
+
+
+
+
+
+1. DGR-5 > dgr - services - Bloodstock Purchases										> (1, 2, 3) done
+
+
+2. DGR-7 > dgr - services - News												> done
+
+
+3. DGR-8 > dgr - services - Farm Projects											> done
+
+
+4. DGR-11 > dgr - Honour Hall - So You Think											> done
+
+
+5. DGR-12 > dgr -Honour Hall - Saintly											> done
+
+
+6. DGR-15 > dgr - Honour Hall - FAINT PERFUME										> done
+
+
+7. DGR-18 > Desktop >> Home Page & Header-Footer >> Missing or Incorrect links ,Formatting and Alignment Issues.			> (3, 5) done
+
+
+8. DGR-21> Desktop >> Services >> News Page >> Links and Formatting Issues							> (1) done
+
+
+9. DGR-23 > Desktop >> Trophy room >> On the Racetrack >> Align all 3 Rows by adjust the data in correct way.			> done
+
+
+10. DGR-28 > Android, iPhone & iPad >> Home Page >> Formatting and Alignment Issues.						> done
+
+
+11. DGR-29 > Android & iPhone >> Contact Page >> Reduce the Spacing b/w text							> done
+
+
+12. DGR-25 > Mac(Safari) and Mac(Chrome) Resolutions 3840*2160 >> Banner Text is showing too below				> done
+
+
+13. DGR-30 > Android >> Navigation Text should be Correctly aligned.								> done
+
+
+14. DGR-32 > Android & iPhone >> Services, Trophy Room and Honour Roll Sub-Pages >> Headings should be aligned in single Row.	> done
+
+
+15. DGR-33 > Android & iPhone >> About Page >> Remove Extra Spacing b/w text							> done
+
+
+16. DGR-34 > iPad >> All Pages >> Add padding on left and right side so content should be visible Correctly.				> done
+
+
+17. DGR-35 > iPad >> On the racetrack Pages >> Alignment Issues.								> (1, 2, 3) done
+
+
+18. DGR-36 > iPad >> Home Page >> Border and Heading Alignment Issues.							> (1, 2) done
+
+
+19. DGR-22 > Desktop >> Services >> FarmProjects Page >> Text should be correctly aligned.						> done
+
+
+
+
+
+
+
+DGR-19, DGR-20, DGR-24, DGR-26, DGR27, DGR-31 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

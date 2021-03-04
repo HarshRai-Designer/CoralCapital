@@ -1,0 +1,44 @@
+Affordable Driving School QA issues done
+
+
+
+
+
+
+
+
+
+1. ADSWC-18 > Desktop >> Header >> Font color, links & design issues									> done
+
+
+2. ADSWC-19 > Desktop >> Footer >> font size, alignment, missing menu & grey line issues							> done
+
+
+3. ADSWC-21 > Desktop >> Home >> Font, size, spacing, design, links issues								> done
+
+
+4. ADSWC-33 > IE browser issues													> done
+
+
+5. ADSWC-36 > Mac(2560x1600) Chrome & Safari Browsers issues									> done
+
+
+6. ADSWC-34 > Mac(3840x2160) Chrome & Safari browsers issues									> done
+
+
+7. ADSWC-20 > Font family issue 													> done
+
+
+8. ADSWC-64 > Home Page >> Formatting Issues											> done
+
+
+9. ADSWC-63 > Desktop >> Locations Page >> Bullet signs are Missing as per Invision							> done
+
+
+10. ADSWC-23 > Desktop >> Location >> Brisbane >> Font color, content, spacing & design issues						> done
+
+
+11. 
+
+
+

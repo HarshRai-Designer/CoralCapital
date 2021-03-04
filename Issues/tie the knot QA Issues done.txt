@@ -1,0 +1,55 @@
+Tie the Knot QA Issues done
+
+
+
+
+
+
+
+
+
+1. TTK-19 > Menu of the active page is not highlighted											> done
+
+
+2. TTK-26 > Shop page - Make the image "Sterling Silver Horse & Jockey Pendant" more zoomed in like the other images				> done
+
+
+3. TTK-28 > Remove the burger that appears next to menu items in the header								> done
+
+
+4. TTK-29 > Responsive - Tie the knot logo does not display on Iphone mobile device							> done
+
+
+5. TTK-31 > Responsive - Background image for the Race club section does not appear on mobile device					> done
+
+
+6. TTK-32 > Responsive - 'Tie the Knot' text overlaps the image on 'Contact Us' page on Ipad & mac book Safari browser				> done
+
+
+7. TTK-21 > Make the spacing of the text equal below the image similar to the spacing above on "About Us" page				> done
+
+
+8. TTK-24 > About Us page - Change the third heading at the bottom section to "Slider Image Details" as mentioned in the user story 		> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+EVS QA issues done
+
+
+
+
+
+1. EVS-25 > About Us-->Laboratory page-->Text is not according to Invision link. Also bullet points are missing.					> done
+
+
+2. EVS-26 > About Us-->Sustainability page - Bullet points are missing for the mentioned points as in the Invision link					> done
+
+
+3. EVS-28 > Cross Browser - Youtube and Search icons on Home page appear misaligned on IE browser						> done
+
+
+4. EVS-29 > Responsive - 'Blog' page is slightly cut-off from left on mobile devices									> done
+
+
+5. EVS-30 > About Us - Management Systems - Ensure text is consistent										> done

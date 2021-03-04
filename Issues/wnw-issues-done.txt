@@ -1,0 +1,81 @@
+Walter and Walter Issues Done
+
+
+
+
+
+
+
+1. WNW-4 > [Walters and Walters] Services								> done
+
+
+2. WNW-3 > [Walters and Walters] Home								> done
+
+
+3. WNW-10 > [Walters and Walters] Who We Are							> done
+
+
+4. WNW-13 > Text Visibility Under The WME Logo							> done
+
+
+5. WNW-15 > Desktop>>Contact Us page>>Submit Button						> done
+
+
+6. WNW-16 > Error message for short phone number and Mobile number					> done
+
+
+7. WNW-17 > Android and iPhone>>Footer>>Copyright							> done
+
+
+8. WNW-18 > iPad>>Padding issue									> done
+
+
+9. WNW-19 > iPad>>Contact Us page								> done
+
+
+
+
+
+
+
+
+Walter and Walter UAT done
+
+
+
+WNW-22 > UAT Feedback - Round 2
+
+
+1. Remove all 4 ticks on the Testimonials page.  The stars are sufficient. 							> done
+
+
+2. One of the testimonials (Chris, Sixpenny) has a minor grammatical change.  Can you please change families to family’s		> done
+
+
+3. Please slightly fade the background image on the Contact Us page (the one behind our contact details).			> done
+
+
+4. Swap the main image on the Home page to this one (and fade it so the logo is prominent).  				> Remaining
+    The current main image on the home page can replace this one on the Services page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

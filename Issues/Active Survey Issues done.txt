@@ -1,0 +1,91 @@
+Active Survey QA issues done
+
+
+
+
+
+
+
+1. CTVSRV-3 > active - About Us
+
+Desktop View : Here is the list of some issues I found -
+
+	1. Who we are the bottom area is having extra white space, please match with the design.							> done
+	
+	2. Who we are the section is having CLIENTS, not CLIENT. 										> done
+
+	3. Founder image height doesn’t match with the design and it’s looking blurred. 								> done
+
+	4. Founder section - please check the correct spacing. 											> done
+
+	5. Let’s help you - Asteric symbols are not showing in design and please check the spacing everywhere(I’ve attached the screenshot).		> done
+
+	6. Footer - please check the design again for spacing and font colors. You can see attached screenshot for reference.				> done
+
+	7. Footer - copyright text & background color not matching and social icon color is blue in the design. 						> done
+
+
+Mobile View : Here is the list of issues I found -
+
+	8. Much space below the banner image, please reduce it.										> done
+
+	9. The client's keyword is not showing on mobile. Also, that complete section is not structured well as the first image 				> done
+	    then clients and then two images together. Can we improve it?
+
+	10. Who we are - please reduce font size for paragraph and should look nicely after reducing it. Also, reduce the extra white space below it.	> done
+
+	11. Please reduce space a bit above the founder section.										> done
+
+	12. Founder section - please reduce the extra spacing and make correct spacing for founder name(you can see design for the reference).		> done
+
+	13. Meet our advisors - please reduce space as shown in screenshot. Also, reduce the white space bottom of this section.				> done
+
+	14. Let’s help you - top and bottom space of the section should be the same and Asterisk symbols are not in the design. 				> done
+
+	15. Footer - please reduce some space below articles heading and add spacing after each article as shawn in design. 				> done
+
+	16. Social icon color and background color and copyright not matching with the design. 							> done
+
+
+
+
+
+
+
+
+2. CTVSRV-4 > active- Active Survey
+
+	2. The thank-you message should be fit to content.											> done
+
+
+
+
+
+
+
+3. CTVSRV-20 > Android,iPhone and iPad >> Home Page >> Alignment, Spacing and Formatting Issues			Mobile > (1, 2, 3, 4, 5, 6, 7, 8, 9) done
+													Ipad     > (1, 2, 3, 4, 5, 6, 8, 9, 10, ) done
+
+
+4. CTVSRV-21 > Android, iPhone and iPad >> About Page >> Spacing and Alignment Issues				Mobile > (1, 2, 3, 4, 5) done
+													Ipad     > (1) done
+
+
+5. CTVSRV-22 > Android, iPhone and iPad >> Active Survey Page >> Padding should be equal b/w Images.			> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

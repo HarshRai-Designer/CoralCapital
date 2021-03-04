@@ -1,0 +1,13 @@
+Year 2019 Calculations
+
+110 days : 1100 leave hours = 255 days : 2550 work hours
+
+Leave Days in 2019 > 110 : saturday & sunday
+
+Total Working Days in 2019 > 255 : work days
+
+Remaining work days in 2019 : 63
+
+Remaining leave  days in 2019 : 26
+
+Completed days as working > 192 days : 1728 hours

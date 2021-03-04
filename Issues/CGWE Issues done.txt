@@ -1,0 +1,20 @@
+Cloudstreet Consulting QA issues done
+
+
+
+
+
+
+1. CGWE-19 > Home Page >> Add space after Full stop correctly											> done
+
+
+2. CGWE-28 > Font-Family should be Consistent for all buttons											> done
+
+
+3. CGWE-29 > iPad >> Home Page >> Spacing Issues												> done
+
+
+4. CGWE-30 > iPad >> Landscape >> Header Buttons should be correctly aligned.									> done
+
+
+5. CGWE-31 > iPad >> Portrait >> Solutions Page & People Page >> Remove space showing below the Image						> done

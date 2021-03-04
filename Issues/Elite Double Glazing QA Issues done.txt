@@ -1,0 +1,93 @@
+Elite Double Glazing QA Issues Done
+
+
+
+
+
+
+
+
+1. EDG-3 > [ELITE DOUBLE GLAZING] : HOME Page												> (5) done
+
+
+2. EDG-8 > [ELITE DOUBLE GLAZING] : NEWS page												> (2) done
+
+
+3. EDG-10 > [ELITE DOUBLE GLAZING] : PRODUCTS - WINDOWS Page										> (2) done
+
+
+4. EDG-23 > Desktop >> Home Page >> Redirection, Button text and spacing Issues.									> (4) done
+
+
+5. EDG-24 > Desktop >> Footer >> Alignment and Formatting Issue										> done
+
+
+6. EDG-28 > Desktop >> Products >> Doors,Screens and Blinds Page >> Remove Extra Spacing showing above Brand Images.				> done
+
+
+7. EDG-29 > Desktop >> Get a Quote >> Zip Pay >> Reduce Extra Padding showing after all Create your account Buttons					> done
+
+
+8. EDG-30 > Desktop >> About Page >> News >> News Detail Page >> Astrick should be in red Color and Comment should be specified as Mandatory		> (Star) done
+
+
+9. EDG-31 > Mac(Safari) 2560*1440 and 3840*2160 Resolutions >> Products >> Door and Windows Page >> Products should be correctly aligned.		> done
+
+
+10. EDG-32 > Mac(safari) and Mac(chrome) 2560*1440 and 3840*2160 resolutions >> Reduce some padding from top and Bottom of the Section		> done
+
+
+11. EDG-34 > Android & iPhone >> All Pages >> Brand Images should be clear and sharp								> done
+
+
+12. EDG-35 > Android & iPhone >> All Pages >> Gallery Sliders >> Either Sliding dots or arrows should be displayed					> done
+
+
+13. EDG-36 > Android & iPhone >> Home Page >> Font size should be larger than below text as per desktop design					> done
+
+
+14. EDG-38 > Android & iPhone >> Contact Page >> Content should be correctly aligned same as Portrait View.						> done
+
+
+15. EDG-39 > Android & iPhone >> News Page >> Checkbox should be parallel aligned with above fields						> done
+
+
+16. EDG-41 > Android & iPhone >> All Pages >> Reduce the width of Submit Button									> done
+
+
+17. EDG-51 > iPad -> Contact Us Form -> Padding should be equal b/w all fields									> done
+
+
+18. EDG-52 > iPad >> Products Page >> Window and Door Pages >> Products should be correctly aligned.						> done
+
+
+19. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

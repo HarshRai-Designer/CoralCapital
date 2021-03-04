@@ -1,0 +1,112 @@
+Auto Avia QA Issues Done
+
+
+https://nbwteam.atlassian.net/browse/AVIA-25 > 04). Successfully Message should be in Green Border. > Remaining
+
+
+1. AVIA-11 > [Auto Avia] Home										> (2, 4, 10, 11, 13, 14, 15, 16) done
+
+
+2. AVIA-10 > [Auto Avia] About Us										> (3, 4) done
+
+
+3. AVIA-14 > Desktop -> Homepage -> Link, Alignment & Extra Spacing issues.					> (6, 7) done
+
+
+4. AVIA-16 > Desktop -> Services & Services Detail Page -> Heading Sepreation & Bold Issues. 			> (2) done
+
+
+5. AVIA-17 > Desktop -> All the Button Size should be Consistent Throughout the Site. 				> done
+
+
+6. AVIA-18 > Desktop -> Contact Us Page -> Asterisk Sign, Hover & Comma's Issue.					> (2) done
+
+
+7. AVIA-19 > Desktop -> Product Detail Page -> Review Form -> Color & Alignment Issue. 				> (2, 3) done
+
+
+8. AVIA-20 > Desktop -> Blog & Blogpost Page -> Sorting Functionality Issue.					> (3, 5) done
+
+
+9. AVIA-21 > Firefox Browser -> Homepage -> Text Alignment Issue.						> done
+
+
+10. AVIA-22 > IE Browser -> Homepage -> Banner Slider Arrow Issues.						> done
+
+
+11. AVIA-23 > IE Browser -> Homepage & Contact Page -> Placeholder text Issue.					> done
+
+
+12. AVIA-24 > IE & Edge Browser -> Services Page -> Buttons Color Issue.						> done
+
+
+13. AVIA-7 > [Auto Avia] Products										> (3, 5, 6) done
+
+
+14. AVIA-6 > [Auto Avia] Products inner pages									> (4, 6, 7) done
+
+
+15. AVIA-25 > Desktop -> Product Detail Page -> Pop-Up -> Validation Message Alignemnet & Color Issues. 		> (3) done
+
+
+16. AVIA-26 > Android Mobile & iPhone -> Homepage -> Text Alignment Issues.					> done
+
+
+17. AVIA-27 > Android Mobile & iPhone -> Services & Services Detail Pages -> Alignment Issues.			> done
+
+
+18. AVIA-28 > Android Mobile & iPhone -> STC's -> Alignment Issue.						> done
+
+
+19. AVIA-29 > Android Mobile & iPhone -> Products Page -> Alignment issues. 					> done
+
+
+20. AVIA-30 > Android Mobile & iPhone -> Contact Us -> Padding / Spacing & Alignment Issues.			> done
+
+
+21. AVIA-31 > iPad -> Homepage -> Alignement Issues.							> done
+
+
+22. AVIA-32 > iPad -> Testimoial Section -> Alignment Issue.							> done
+
+
+23. AVIA-33 > iPad -> STC's -> Lines in the Form Issue.								> done
+
+
+24. AVIA-34 > iPad -> Products Detail Page -> Social Icons Alignment Issue.					> done
+
+
+25. AVIA-35 > iPad -> Contact Us Page -> Text Alignment Issue.							> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

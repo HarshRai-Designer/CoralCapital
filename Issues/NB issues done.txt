@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. NB-16 > Home page - Please provide adequate spacing between logos and center-align the row							> done
+
+
+2. NB-17 > Cross Browser - The menu bar in the header appears to be misaligned overlapping the logo on IE browser					> done
+
+
+3. NB-18 > Cross Browser - Mining page: Center align the text "Mining" on the banner image in IE browser						> done
+
+
+4. NB-26 > Remove the social media icons from the Footer as the customer doesn't have any accounts							> done
+
+
+5. 
+
+

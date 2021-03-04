@@ -1,0 +1,61 @@
+Cozens Paper Recycling QA Issues done
+
+
+
+
+
+
+
+
+
+
+
+1. CNGWE-38 > Desktop >> Home page >> Banner image issue										> done
+
+
+2. CNGWE-40 > Desktop >> Contact form >> Font color issue										> done
+
+
+3. CNGWE-39 > Desktop >> Header >> Font family, size & symbol issues									> done
+
+
+4. CNGWE-41 > Desktop >> Footer >> Alignment issue											> done
+
+
+5. CNGWE-44 > iPad Responsiveness >> Header & side bar issues										> done
+
+
+6. CNGWE-45 > iPad Responsiveness >> Page slide issue											> done
+
+
+7. CNGWE-46 > Mobile Responsiveness >> Home page >> Line height, image height & spacing issues						> (3, 4, 5, 6) done
+
+
+8. CNGWE-52 > Desktop >> Homepage >> Consult us >> "Thank you" massage should be Fit to content						> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

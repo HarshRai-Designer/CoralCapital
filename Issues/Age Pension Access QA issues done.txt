@@ -1,0 +1,126 @@
+Age Pesnsion Access QA Issue
+
+
+
+
+
+
+
+
+
+
+
+
+1. ANG-3 > AgePensionAccess - Home Page												> done
+
+
+2. ANG-5 > AgePensionAccess - Our Services												> done
+
+
+3. ANG-6 > AgePensionAccess - 6 Easy Steps												> done
+
+
+4. ANG-8 > AgePensionAccess - Disability												> done
+
+
+5. ANG-10 > AgePensionAccess - Fees												> done
+
+
+6. ANG-14 > Desktop >> Home Page >> Banner Read More Button should be linked to 6 easy steps Page.					> done
+
+
+7. ANG-15 > Desktop >> Home Page >> Heading text should also linked to its respective Pages.						> done
+
+
+8. ANG-16 > Desktop >> Footer >> Scroll to top arrow should not be overlapped with site Email						> done
+
+
+9. ANG-18 > Desktop >> All Pages >> All Pages Headings styling should be Matched same as per Home Heading 				> done
+
+
+10. ANG-19 > Desktop >> Our Services >> Remove line space make it as single paragraph							> done
+
+
+11. ANG-20 > Desktop >> SIX EASY STEPS Page >> Add space b/w requirement & and.							> done
+
+
+12. ANG-21 > Desktop >> DISABILITY SERVICE >> Add space after full stop.								> done
+
+
+13. ANG-22 > Desktop >> Fees Page >> All Contact Us buttons should be correctly aligned.							> done
+
+
+14. ANG-23 > Desktop >> Fees Page >> Nominee Service and Follow up action section height should be matched				> done
+
+
+15. ANG-24 > Desktop >> Fees Page >> All Contact Us Buttons are linked to 404 Page							> done
+
+
+16. ANG-25 > Desktop >> Contact Page >> Phone and Email are redirecting to 404 Page when click						> done
+
+
+17. ANG-26 > Desktop >> Contact Form >> Increase the font size of thank you message as its looking too small					> done
+
+
+18. ANG-27 > Desktop >> Contact Page >> Add gray lines around the Heading same as other pages						> done
+
+
+19. ANG-28 > Desktop >> Contact Page >> Button should be correctly aligned center							> done
+
+
+20. ANG-29 > Mac(Safari) & Mac(Chrome) >> Footer >> Social Icons should be aligned center as per above Image				> done
+
+
+21. ANG-30 > Android, iPhone & iPad >> Footer >> copyright and site logo should be displayed below the email				> done
+
+
+22. ANG-32 > Android & iPhone >> Fees Page >> Fees Sections should be correctly aligned							> done
+
+
+23. ANG-33 > Android, iPhone & iPad >> Home Page >> Paragraph text should be correctly aligned						> done
+
+
+24. ANG-34 > Android & iPhone >> Contact Page >> Reduce some width of contact fields inorder to look better					> done
+
+
+25. ANG-35 > Android, iPhone & iPad >> Navigation >> Reduce the width of search input box as it looks weird					> done
+
+
+26. ANG-36 > Android & iPhone >> All service Images should be visible correctly 								> done
+
+
+27. ANG-37 > Android & iPhone >> Contact Page >> Thank you message should be correctly aligned 						> done
+
+
+28. ANG-38 > iPad >> Home Page >> Match the spacing b/w services sections 								> done
+
+
+29. ANG-39 > iPad >> Search should be visible correctly										> done
+
+
+30. ANG-43 > NOMINEE SERVICE Page >> Correct the word to "hours"									> done
+
+
+31. ANG-40 > iPad >> Fees Page >> NOMINEE SERVICE & FOLLOW-UP ACTIONS Section should be correctly aligned 				> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. SHOE-3 > [Shoe Product Australia] Home                                                                                                                            		> (1, 2) done
+
+
+2. SHOE-4 > [Shoe Product Australia] Shoe Products                                                                                                             		> (1) done
+
+
+3. SHOE-10 > [Shoe Product Australia] Contact                                                                                                                       		> (1, 2, 3, 4, 5) done
+
+
+4. SHOE-18 > Desktop -> Homepage -> Button Link Issue.                                                                                                     		> done
+
+
+5. SHOE-20 > Desktop -> Login & Register Form -> Validation & Text Position Errors.                                                      			> (3) done
+
+
+6. SHOE-21 > In Footer Section -> Font size issue.                                                                                                                   		> done
+
+
+7. SHOE-22 > Desktop -> Product Detail Page -> Thumbnail & Alignment Issue                                                                			> (3) done
+
+
+8. SHOE-24 > Desktop -> Checkout Page -> Text Order & Loading Icon Issues.                                                                  			> (3, 5, 7, 8) done
+
+
+9. SHOE-27 > Desktop -> My Account Icon in Header -> Dropdown issues.                                                                       			> (2) done
+
+
+10. SHOE-28 > Desktop -> My Account -> Dashboard Page -> Color Issue.                                                                        			> done
+
+
+11. SHOE-31 > Desktop -> In Dashboard -> Input Fields Alignment issue.                                                                          			> done
+
+
+12. SHOE-32 > Android Mobile & iPhone -> ShoE Product Page -> Sub Pages -> Alignment Issues.					> (1) done : (2 > Ask client for images)
+
+
+13. SHOE-33 > Android Mobile & iPhone -> Product Detail Page -> Button & Text Alignment Issues.					> done
+
+
+14. SHOE-34 > Android Mobile & iPhone -> Cart Page -> Options Missing Issue.							> done
+
+
+15. SHOE-35 > Android Mobile & iPhone -> Checkout Page -> Text & Button Alignment issues.					> (1, 2) done
+
+
+16. SHOE-36 > Android Mobile & iPhone -> Contact us Page -> Alignment issue.							> done
+
+
+17. SHOE-38 > Android Mobile & iPhone -> Shipping & Billing Address Page -> Text & Sections alignment Issues.				> done
+
+
+18. SHOE-39 > iPad -> Homepage -> Banner Slider Issue.									> done
+
+
+19. SHOE-40 > iPad -> Shoe Products -> Banner Issue.										> done
+
+
+20. SHOE-41 > iPad -> Product Detail Page -> Alignment issues.									> done : (3 > Ask client for images)
+
+
+21. SHOE-37 > Android Mobile & iPhone -> Dashboard -> Products Page -> Text & Buttons Issue.					> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

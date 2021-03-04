@@ -1,0 +1,20 @@
+Sandgate QA Issues done
+
+
+
+
+
+
+
+
+
+1. SGWE-38 > Cross Browser - Cart page: Quantity and Total columns have merged in IE browser						> done
+
+
+2. SGWE-39 > Cart slider - Capitalize the first letters of the product "Mixed Native Flowers" when added to the cart				> done
+
+
+3. SGWE-40 > Cross Browser - "Close" icon appears to be white on Cart slider in IE browser. Please change the colour to black so that its visible	> done
+
+
+4. SGWE-41 > Cross Browser - Checkout page Order section appears misaligned in IE browser							> done 

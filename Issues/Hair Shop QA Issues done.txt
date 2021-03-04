@@ -1,0 +1,90 @@
+Hair Shop QA Issues done
+
+
+
+
+
+
+1. HCW-30 > Desktop >> Search bar on filter >> Flow & function issues									> done
+
+
+2. HCW-38 > Desktop >> Firefox browser issues											> done
+
+
+3. HCW-39 > Edge browser issues													> (3, 5) done
+
+
+4. HCW-40 > IE browser issues 													> (1, 5) done
+
+
+5. HCW-44 > Mobile Responsiveness >> Search bar >> Design & function issues								> done
+
+
+6. HCW-45 > Mobile Responsiveness >> Footer >> Spacing issue										> done
+
+
+7. HCW-46 > Mobile Responsiveness >> Home Page >> Text over button is incomplete							> done
+
+
+8. HCW-47 > Mobile Responsiveness >> Products page >> Spacing, alignment, overlapping issues						> done
+
+
+9. HCW-48 > Mobile Responsiveness >> Blog Page >> Spacing issues									> done
+
+
+10. HCW-49 > Mobile Responsiveness >> Post page >> Design issues									> done
+
+
+11. HCW-50 > Mobile Responsiveness >> Hair Tutorials page >> Spacing issues								> done
+
+
+12. HCW-51 > Mobile Responsiveness >> Contact Page >> Spacing & flow issues 								> (1, 2, 3) done
+
+
+13. HCW-52 > Mobile Responsiveness >> Login page >> Spacing & position issues								> done
+
+
+14. HCW-53 > Mobile Responsiveness >> Account page >> Alignment & spacing issues							> done
+
+
+15. HCW-54 > iPad Responsiveness >> Products page >> Design broken									> done
+
+
+16. HCW-55 > iPad Responsiveness >> Post Page >> Extra line & padding issues								> done
+
+
+17. HCW-56 > iPad Responsiveness >> Hair Tutorial Page >> Spacing issues								> done
+
+
+18. HCW-58 > iPad Responsiveness >> Product Detail Page >> Design issue									> done 
+
+
+19. HCW-43 > Mobile Responsiveness >> Header >> Logo size issue									> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

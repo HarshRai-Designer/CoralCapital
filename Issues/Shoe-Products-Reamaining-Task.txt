@@ -1,0 +1,49 @@
+Shoe Products Remaining Integration and Designing.
+
+
+
+
+1. Cart Page > Remove cart total table from "Your Order" section > done
+			 > Review calculate shipping (text changing when we select any options)
+
+
+
+2. Products Inner page > Breadcrumbs (Div container should be separate same as the cart Page with a main div.) > done
+					   > Reviews, QTY, Share (add text) > done
+					   > Add tabs with their respective names as per invision
+					   > Remove Mail and Linkedin & Add (instagram icon) > done
+
+
+
+3. cart page and checkout page > Returning customer? Click here to login (put the text with the main heading)
+	     		      		   > Remove shipping text from your order section
+
+
+
+4. Checkout page > Put main heading in H2
+				 > input field errors (should down to input fields)
+
+
+
+5. Login Page, Logout Page, Register Page, Success Page > Remaining Pages. > (Login, Register) done
+
+
+
+6. My Account > Dashboard, Orders, Logout (Remaining Pages) > (Dashboard, Orders) done
+
+
+
+7. My Account > account products > Show More (Button Reamains)
+			          			 > Search bar and filter bar (Remains : Changes in default or Make New)
+
+
+8. Shoe Product Page > Slider Problem
+					 > main heading : Shoe Products (filter option for small devices not working) > done
+					 > Remove dummy & test Categories > done
+
+
+
+
+
+9. Checkout page > Shipping Form > Email & Phone > Double stars > done
+

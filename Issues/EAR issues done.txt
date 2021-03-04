@@ -1,0 +1,50 @@
+Earth Sculpture QA issues Done
+
+
+
+
+
+1. EAR-3 > Home page												> (3) done
+
+
+2. EAR-9 > Contact us												> (3, 4) done
+
+
+3. EAR-11 > Desktop -> Homepage -> Alignment Issue.									> (1, 2, 3, 4, 6) done
+
+
+4. EAR-13 > IE Browser -> Homepage -> Text Alignment Issue								> done
+
+
+5. EAR-14 > Android Mobile & iPhone -> Homepage -> Logo & Alignment Issues. 						> done
+
+
+6. EAR-15 > Android Mobile & iPhone -> About Us Page -> Text Alignment Issue.						> done
+
+
+7. EAR-16 > Android Mobile & iPhone -> Contact Us Page -> Alignment Issue.						> done
+
+
+8. EAR-17 > iPad -> Homepage -> Alignment issue.									> done
+
+
+9. EAR-20 > All Images on the homepage should be below 100KB.							> done
+
+
+10. EAR-18 > Android Mobile & iPhone -> Contact Form -> Button Color Issue. 						> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

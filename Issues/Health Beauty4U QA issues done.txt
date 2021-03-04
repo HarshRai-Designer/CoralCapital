@@ -1,0 +1,153 @@
+Health Beauty4U QA Issues done
+
+
+
+
+
+
+
+1. HB4-6 > Desktop >> Social Icons should be Visible on hover also remove red border showing around the background									> done
+
+
+2. HB4-9 > Desktop >> Home Page >> Sections should be correctly aligned as per theme design											> done
+
+
+3. HB4-11 > All Pages >> Buttons Formatting should be matched as per Home Page Buttons.												> done
+
+
+4. HB4-12 > Desktop >> Testimonials Page >> Block quotes image should be visible correctly before the content.									> done
+
+
+5. HB4-14 > Desktop >> Mini Cart items should be correctly aligned.														> done
+
+
+6. HB4-16 > Desktop >> Cart Page >> Coupon Input box height and Checkout Button height should be matched with other Buttons on th page						> done
+
+
+7. HB4-17 > Desktop >> Contact Page >> Error Message should be visible correctly													> done
+
+
+8. HB4-18 > Desktop >> Checkout Page >> Ship to different address checkbox and text should be correctly aligned same as remember me checkbox and text					> done
+
+
+9. HB4-19 > Desktop >> Product Detail Page >> Review Form >> Astrick sign should be in red color.											> done
+
+
+10. HB4-20 > Desktop >> Compare Popup & Compare Page >> Price should be aligned center and Remove icon should be visible correctly							> done
+
+
+11. HB4-21 > Desktop >> My Account >> Addresses >> Edit link under billing and shipping address should be aligned correctly								> done
+
+
+12. HB4-22 > Desktop >> Hover color of scroll to top should be matched be Cart Icon hover												> done
+
+
+13. HB4-23 > Desktop >> Menu of active Page should be highlighted														> done
+
+
+14. HB4-25 > Desktop >> Home Page >> Newsletter Subscribe Button & More Button hover color "#c76ca9" should be matched with rest of the page buttons					> done
+
+
+15. HB4-26 > Desktop >> My Account >> Orders Page >> Add padding b/w buttons													> done
+
+
+16. HB4-27 > Desktop >> Product Detail Page >> Add to cart Button formatting & style should be matched with the button on home page							> done
+
+
+17. HB4-29 > Desktop>> Product Detail Page >> When hover on cart icon the color should also changed same as icon color								> done
+
+
+18. HB4-30 > Desktop >> Blog and Testimonial Pages >> Image should be correctly aligned same as shop Pages									> done
+
+
+19. HB4-33 > Desktop >> Home Page >> Spacing and Reviews Undefined Issues													> (1) done
+
+
+20. HB4-36 > Internet Explorer >> Icons alignment should be matched same other Browsers.												> done
+
+
+21. HB4-37 > Internet Explorer & Edge Browsers >> Product Detail Page & Cart Page >> Quantity Increment and decrement arrow is not showing						> No Issue
+
+
+22. HB4-38 > Mac(Safari) & Mac(chrome) 2560*1440 & 3840*2160 resolutions >> Product detail Page >> Title should be aligned in single line						> done
+
+
+23. HB4-41 > Android, iPhone & iPad >> Header >> Spacing and Alignment Issues													> done
+
+
+24. HB4-42 > Android & iPhone >> Footer >> Image clarity and Alignment Issues													> done
+
+
+25. HB4-43 > Android & iPhone >> Home Page >> Layout and Alignment Issues													> (1, 2) done
+
+
+26. HB4-44 > Android & iPhone >> Cart Page >> Missing titles and Alignment Issues													> done
+
+
+27. HB4-45 > Android, iPhone & iPad >> My Account >> Alignment Issues														> done
+
+
+28. HB4-46 > Android & iPhone >> Product Detail Page >> Heading should be aligned in single line.											> done
+
+
+29. HB4-47 > Android & iPhone >> Product Listing Page >> Alignment Issues													> done
+
+
+30. HB4-48 > Android & iPhone >> Checkout Page >> Create an account and ship to different address should be correctly aligned with their respective check boxes.				> done
+
+
+31. HB4-49 > Android & iPhone >> Wishlist Page >> Missing Fields on Page														> done
+
+
+32. HB4-50 > iPad >> Home Page >> Spacing and Alignment Issues														> done
+
+
+33. HB4-51 > iPad >> Sidebar should be correctly aligned on all Pages														> done
+
+
+34. HB4-52 > iPad >> Compare Popup >> Scroll should be working														> done
+
+
+35. HB4-53 > iPad >> Wishlist Page >> Add to cart Button should be correctly aligned.												> done
+
+
+36. HB4-54 > iPad >> Product Detail Page >> Add to cart Button and Quantity box should be aligned in single row and Increment and decrement Arrows should be there for quantity		> done
+
+
+37. HB4-55 > iPad >> My Account >> Orders >> View Order Page >> Billing and shipping Address Sections should be correctly aligned							> done
+
+
+38. HB4-56 > iPad >> Cart Page >> alignment and Missing arrows Issue														> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+AusCorp Issues done
+
+
+
+
+
+
+
+1. AUS-27 > Desktop>>Contact Page											> (2, 3, 4) done
+
+
+2. AUS-42 > Androiod & iPhone>>Home Page										> (1, 2, 3, 4, 5, 6, 7) done
+
+
+3. AUS-43 > Desktop>>All pages											> done
+
+
+4. AUS-44 > Android & iPhone>>Major Rides, Medium Range Rides, and Inflatable Rides and Activities				> (2) done > (1) : no issue
+
+
+5. AUS-45 > Desktop>>All Pages											> done
+
+
+6. AUS-47 > Desktop>>Medium Range Rides>>Cup and Saucer								> done
+
+
+7. AUS-48 > Android & iPhone>>Contact page										> (3, 4) done
+
+
+8. AUS-3 > auscorpamusement - Subheading for Amusement- First Major Ride						> done
+
+
+9. AUS-23 > Please add breadcrumbs for all the ride pages								> done
+
+
+10. AUS-26 > Desktop>>Fun Food Machine										> done
+
+
+11. AUS-32 > There should be a proper tagline for the website.								> done
+
+
+12. AUS-33 > Desktop>>404 page											> done : Hidden
+
+
+13. AUS-5 > auscorpamusement- subheading for amusement - Inflatable Rides and activities				> done
+
+
+14. AUS-4 > auscorpamusement- subheading for amusement - Second medium range rides					> done
+
+
+15. AUS-29 > Site should be fully optimized										> done
+
+
+16. AUS-24 > Desktop>>Home Page											> done
+
+
+17. AUS-49 > iPad Issues												> done
+
+
+18. AUS-41 > Privacy Policy Page											> done
+
+
+19. AUS-46 > Desktop>>All rides pages										> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,101 @@
+jimmy UAT done
+
+
+
+Home Page : 
+
+1. swap the image next to “Jimmy’s YWC” with the image appearing next to “Our partner..”					> done
+
+
+
+About Page : 
+
+1. Under WHO WE ARE, please move the “Opening in December 2019” to the end of that paragraph, and change it to read - “Opening in early 2020.”						> done
+
+2. swap out the WHAT WE DO image for attached (pexel1.jpg).															> done
+
+3. Under THE STORY BEHIND JIMMY’S, please change the final sentence to read, “we are hopeful for a completion in early 2020.” Also, swap out the pic for attached, entitled ‘James’.		> done
+
+4. swap out the pic next to OUR PARTNERSHIP.. with attached, entitled ‘Jeanette.’													> done
+
+5. link YPYS webpage to http://www.vicyouth.ymca.org.au/programs/community-centres/southernpeninsula.html									> done
+
+6. swap out the YPYS PROGRAMS image for (pexel2)																> done
+
+7. Please make THE BOARD section a lot smaller. Pics attached with referring names.												> (pic updated) : done > THE BOARD section a lot smaller : not done
+
+
+
+Get Involved Page : 
+
+1. Please remove the caps in Contact Us wherever it appears in the text copy on this page. The buttons below will be enough.			> done
+
+2. Swap out all images for attached - titles match text sections, ie. donate, sponsor, volunteer						> done
+
+
+
+
+Publications Page : 
+
+1. Under ANNUAL NEWSLETTER, can it please read “Read our latest edition here...” and then underneath that in italic “(2019 newsletter available late 2019)”															> done
+
+2. Remove the 2nd ANNUAL NEWSLETTER heading and replace it with ANNUAL FINANCIAL STATEMENT. Underneath that heading, please have it read “Read our latest edition here...” and then underneath that in italic “(our 2019 statement will be available in October 2019)”.		> done : not (Also, whom do I email to upload these documents once they are available?)
+
+3. Remove the image on top of ANNUAL FINANCIAL STATEMENT and replace it with the first image that appears under the MEDIA header.																	> done
+
+
+
+
+
+And end of the document what is my status is that i have not deleted any of the section on any page which mentioned in Document, so please review and delete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tvisuals UAT Feedback : 
+
+
+
+1. The bottom left picture on the gallery page needs to be rotated clockwise .										> done
+
+
+2. Please remove the wording from Installation, Graphic design, Wall coverings, Signage from the homepage and add them on the respective pages			> done
+
+
+3. Update the images under from Installation, Graphic design, Wall coverings, Signage to the images attached (images names as per the sections)			> done
+
+
+4. Please change the photo of under About Tiago section to photo attached.		> done (Not Done : Update the address on the website to 306/2 Duntroon Ave, St Leonards 2065)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

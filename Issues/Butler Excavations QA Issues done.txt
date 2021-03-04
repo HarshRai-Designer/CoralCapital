@@ -1,0 +1,25 @@
+Butler Excavations QA Issues Done
+
+
+
+
+
+
+
+
+1. BUT-3 > Home												> (1, 2, 3, 5, 6) done
+
+
+2. BUT-4 > Civil												> done
+
+
+3. BUT-6 > Recycling											> done
+
+
+4. BUT-7 > Products											> done
+
+
+5. BUT-8 > Contact form 											> done
+
+
+6. 

@@ -1,0 +1,81 @@
+Styled Property Issues Done
+
+
+
+
+STYL-21, STYL-22 (Remaining)
+
+
+
+
+
+1. STYL-3 > Home page												> (2, 6) done
+
+
+2. STYL-7 > Service ->Property Styling										> (2) done
+
+
+3. STYL-8 > The team												> done
+
+
+4. STYL-10 > Property styling school											> (1, 3) done
+
+
+5. STYL-13 > Desktop >> Home Page >> Links, Formatting and Alignment Issues.						> (2, 7) done
+
+
+6. STYL-14 > Desktop >> Services Page >> Link,Alignment and Missing Text Issues.						> (2) done
+
+
+7. STYL-15 > Desktop >> Services Inner Pages >> Spacing Issues.								> done
+
+
+8. STYL-19 > Desktop >> Contact Page >> Validations and Alignment Issues						> (3) done
+
+
+9. STYL-20 > Desktop >> Home Page and Contact Page >> Brand Logo Images should be clear and sharp			> done
+
+
+10. STYL-23 > Android, iPhone & iPad>> Home Page >> Alignment Issues							> done
+
+
+11. STYL-24 > Android, iPhone & iPad >> Services & Inner Pages >> Spacing Issues.						> done
+
+
+12. STYL-25 > Android, iPhone & iPad >> The Team Page >> Spacing Issues.						> done
+
+
+13. STYL-26 > Android, iPhone & iPad >> Contact Page >> Alignment and Spacing Issues.					> done
+
+
+14. STYL-27 > Android & iPhone >> Property Styling Page >> Phone Number should be aligned in single line.			> done
+
+
+15. STYL-28 > iPad >> The Team Page >> Text should be correctly aligned below the text.					> done
+
+
+16. STYL-29 > iPad >> Contact Page >> Image should be clear								> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

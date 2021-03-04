@@ -1,0 +1,244 @@
+Today Report
+
+
+1. Laundro Lab : Site Review : 3h : Done 
+
+Site was implimented in flatsome, found some element which not inbuilt with flatsome and concern to developer
+regarding this and understood.
+
+https://www.laundrolabfranchise.com/
+
+
+
+
+2. Ghrix Site : Elementor Learning : 1h : on hold (due to server issue site not working)
+
+make new duplicate page and then editing it according to design requirements.
+
+http://s1.ghrix.com/ghrix/homepage-new-h/
+
+
+
+
+3. Git Hub : Learning Git + Bit Bucket : 5h
+
+Signup on bit buckets then make new reposetry and learn about push files with the help of Git command on bit bucket.
+
+
+
+Total time : 9h
+
+Tomorrow Task : Available + Learn Elementor + Learning Git & Bit Bucket
+
+Thanks
+Harsh Rai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sir have we task for tomorrow on Coral Capital ?
+
+http://coralcap.brightstaging.com/privacy-policy/
+
+http://coralcap.brightstaging.com/community-profile/
+
+http://coralcap.brightstaging.com/coral-community-form/
+
+http://coralcap.brightstaging.com/startup-dev-map/
+
+http://coralcap.brightstaging.com/seed-finance-insights/
+
+http://coralcap.brightstaging.com/bilinguals-gaijins-in-startups/
+
+http://coralcap.brightstaging.com/coralcareerfair/
+
+http://coralcap.brightstaging.com/founders-hour/
+
+http://coralcap.brightstaging.com/library/
+
+http://coralcap.brightstaging.com/perks/
+
+http://coralcap.brightstaging.com/startup-aquarium-online/
+
+http://coralcap.brightstaging.com/coral-school/
+
+http://coralcap.brightstaging.com/startup-all-positions-map/
+
+http://coralcap.brightstaging.com/startup-pdm-map/
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html body,
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body b,
+body strong,
+body span,
+body ul li,
+body a,
+.banner h2,
+.banner h3,
+.banner h1,
+body label,
+body input,
+body textarea,
+body .nav li a {
+    font-family: 'Montserrat', sans-serif !important;
+    opacity: 1;
+}
+
+body p {
+    font-size: 14px;
+    color: #787878;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+body b {
+    color: #000000;
+    font-weight: 600;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #787878;
+    opacity: 1;
+}
+
+input::-webkit-inout-placeholder,
+textarea::-webkit-inout-placeholder {
+    color: #787878;
+    opacity: 1;
+}
+
+input:-ms-input-placeholder,
+textarea::-ms-input-placeholder {
+    color: #787878;
+    opacity: 1;
+}
+
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+    color: #787878;
+    opacity: 1;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+span:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+:focus {
+    outline: none;
+}
+
+::selection {
+    background-color: #429832;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+CLIN QA issues
+
+
+
+
+1. https://nbwteam.atlassian.net/browse/CLIN-25 : Done
+
+
+2. https://nbwteam.atlassian.net/browse/CLIN-26 : Done
+
+
+3. https://nbwteam.atlassian.net/browse/CLIN-27 : Done (point-1 : if we make it side by side on landscape so the email id will go in second line which is not right)
+
+
+
+4. https://nbwteam.atlassian.net/browse/CLIN-28 : Done
+
+
+5. https://nbwteam.atlassian.net/browse/CLIN-30 : Done
+
+
+6. https://nbwteam.atlassian.net/browse/CLIN-29 : Done
+
+
+7. https://nbwteam.atlassian.net/browse/CLIN-32 : Done
+
+
+
+
+
+
+
+
+
+
+
+GT Skips QA issues done
+
+
+
+1. https://nbwteam.atlassian.net/browse/GT-46 : Done
+
+2. https://nbwteam.atlassian.net/browse/GT-47 : Done
+
+3. https://nbwteam.atlassian.net/browse/GT-48 : Done
+
+4. https://nbwteam.atlassian.net/browse/GT-49 : Done (new)
+
+5. https://nbwteam.atlassian.net/browse/GT-50 : Done (new)
+
+6. https://nbwteam.atlassian.net/browse/GT-51 : Done
+
+7. https://nbwteam.atlassian.net/browse/GT-52 : Done (new)
+
+8. https://nbwteam.atlassian.net/browse/GT-53 : Done (new)
+
+9. https://nbwteam.atlassian.net/browse/GT-54 : Done (new)
+
+10. https://nbwteam.atlassian.net/browse/GT-55 : Done (new)
+
+11. https://nbwteam.atlassian.net/browse/GT-56 : Done (new)
+
+12. https://nbwteam.atlassian.net/browse/GT-57 : Done (new)

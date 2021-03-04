@@ -1,0 +1,61 @@
+Michael Bowe QA issues Done
+
+
+
+
+
+
+
+
+1. MNGWE-3 > michael - Home												> (1) done
+
+
+2. MNGWE-4 > michael - Profile												> (3) done
+
+
+3. MNGWE-5 > michael - Court and Criminal Cases										> (3) done
+
+
+4. MNGWE-6 > michael - Specialist Services											> done
+
+
+5. MNGWE-9 > michael - Contact Us												> (4) done
+
+
+6. MNGWE-11 > IE Browser -> Images on Blocks -> Shadow Issue.								> done
+
+
+7. MNGWE-12 > MAC ( Safari & Chrome ) 2560x1440 -> Description Font Size -> On All the Pages.					> done
+
+
+8. MNGWE-13 > Android Mobile & iPhone -> Homepage -> Alignment Issue.							> done
+
+
+9. MNGWE-14 > Android Mobile -> Contact Us Page -> Text alignment Issue.							> done
+
+
+10. MNGWE-15 > iPad -> Homepage -> Alignment Issue.									> done
+
+
+11. MNGWE-16 > iPad -> Contact Us Page -> Alignment Issue.									> done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

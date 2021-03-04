@@ -1,0 +1,20 @@
+A Style of Shade QA issues done
+
+
+
+
+
+
+
+
+
+
+1. AS-36 > Remove the scrollbars from description when clicking "More details" for a product according to Invision link					> done
+
+
+2. AS-59 > Cross Browser - News & Trends page appears broken on IE browser									> done
+
+
+3. 
+
+
